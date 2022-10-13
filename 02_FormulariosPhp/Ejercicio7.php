@@ -65,4 +65,9 @@
         echo "<h4>Título: $titulo <br> Consola: $consola <br> Edición Especial: $especial</h4>";
     ?>
 </body>
+<style type="text/css">
+        body {
+            background-color:aquamarine;
+        }
+   </style>
 </html>

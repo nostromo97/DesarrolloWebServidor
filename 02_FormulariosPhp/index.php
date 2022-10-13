@@ -1,5 +1,5 @@
    
-   <h1>Ejercicios de clase de formularios</h1>
+   <h2>Ejercicios de clase de formularios</h2>
     <h4>Agustín Arcos Reyes</h4>
 
     <li><a href="EJERCICIOCLASE.php">Ejercicio 1</a></li>
@@ -17,5 +17,9 @@
     <li><a href="Ejercicio7.php">Ejercicio 7</a></li>
     <br>
 
-   
+   <style type="text/css">
+        body {
+            background-color:aquamarine;
+        }
+   </style>
 

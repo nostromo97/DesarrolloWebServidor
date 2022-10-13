@@ -1,5 +1,5 @@
 
-
+<link rel="stylesheet" href="style.css">
 <form action="RespuestaFormulario.php" method="post">
 
     <label>Nombre</label><br>

@@ -10,4 +10,4 @@
 
 </form>
 
-<h5><a href="../../02_formularios_php/index.php">■ Volver a la página principal ■</a></h5>
+<h5><a href="index.php">■ Volver a la página principal ■</a></h5>

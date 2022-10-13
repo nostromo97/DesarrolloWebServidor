@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+<link rel="stylesheet" href="style.css">
     <title>Prueba11Octubre</title>
 </head>
 <body>
@@ -33,6 +34,8 @@
 
     </form>
 
+    <h5><a href="index.php">■ Volver a la página principal ■</a></h5>
+    
     <?php
         if($_SERVER["REQUEST_METHOD"] == "POST"){
             $titulo = $_POST["titulo"];

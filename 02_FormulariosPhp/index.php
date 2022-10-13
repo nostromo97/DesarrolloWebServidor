@@ -6,15 +6,16 @@
     <br>
     <li><a href="EjemploFormulariosPHP.php">Ejercicio 2</a></li>
     <br>
-    <li><a href="Ejercicio3/index.html">Ejercicio 3</a></li>
+    <li><a href="index_Ej3.html">Ejercicio 3</a></li>
     <br>
-    <li><a href="Ejercicio4/index_Ej4.html">Ejercicio 4</a></li>
+    <li><a href="index_Ej4.html">Ejercicio 4</a></li>
     <br>
-    <li><a href="Ejercicio5/index_Ej5.php">Ejercicio 5</a></li>
+    <li><a href="index_Ej5.php">Ejercicio 5</a></li>
     <br>
-    <li><a href="Ejercicio6/index_Ej6.php">Ejercicio 6</a></li>
+    <li><a href="index_Ej6.php">Ejercicio 6</a></li>
     <br>
-    <li><a href="Ejercicio7/Ejercicio7.php">Ejercicio 7</a></li>
+    <li><a href="Ejercicio7.php">Ejercicio 7</a></li>
     <br>
 
-<style>
+   
+
